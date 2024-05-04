@@ -6,9 +6,11 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 const Navbar = () => (
   <div className="nav-bar">
+
     <Link className="home" to="/">
       <p className="h-btn">REMIGIUSZ CISZEWSKI</p>
     </Link>
+
     <nav>
       <NavLink exact="true" activeclassname="active" to="/">
         <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
@@ -50,6 +52,7 @@ const Navbar = () => (
         </li>
       </ul>
     </nav>
+    
   </div>
 )
 
