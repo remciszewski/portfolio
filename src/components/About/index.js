@@ -7,9 +7,9 @@ const About = () => {
                 <h1>
                     About me
                 </h1>
-                <p>Dupa dupa</p>
-                <p>Kupa kupa</p>
-                <p>Cipa cipa</p>
+                <p>A</p>
+                <p>B</p>
+                <p>C</p>
             </div>
 
         </div>
