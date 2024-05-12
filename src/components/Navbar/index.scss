@@ -48,15 +48,14 @@ nav {
             color: #022c43;
         }
     }
+    ul {
+        display: flex;
+        align-items: center;
     
-}
-
-ul {
-    display: flex;
-    align-items: center;
-
-    li {
-        list-style: none;
-        display: inline-block;
+        li {
+            list-style: none;
+            display: inline-block;
+        }
     }
 }
+
