@@ -7,9 +7,9 @@ const About = () => {
                 <h1>
                     About me
                 </h1>
-                <p>A</p>
-                <p>B</p>
-                <p>C</p>
+                <p>Not much to say</p>
+                <p>Since I've only been</p>
+                <p>Practicing on here</p>
             </div>
 
         </div>

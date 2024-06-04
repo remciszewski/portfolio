@@ -32,7 +32,7 @@ const Contact = () => {
       <div className="container contact-page">
         <div className="text-zone">
           <h1>Contact me</h1>
-          <p>acdefgh</p>
+          <p>Fill out the form below to contact me</p>
           <div className="contact-form">
             <form ref={refForm} onSubmit={sendEmail}>
               <ul>

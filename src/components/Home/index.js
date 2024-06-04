@@ -7,11 +7,11 @@ const Home = () => {
     return (
         <div className='container home-page'>
             <div className='text-zone'>
-                <h1>Dzien dobry, <br />
-                <span>Jestem Remigiusz</span>
+                <h1>Hi, <br />
+                <span>My name's Remigiusz</span>
                 </h1>
-                <h2>Głaskam sra jak psa 🥸💩</h2>
-                <Link to='/contact' className='flat-button'>skontaktuj sie ze mnom</Link>
+                <h2>H2 Placeholder</h2>
+                <Link to='/contact' className='flat-button'>Contact me here</Link>
             </div>
         </div>
     );
